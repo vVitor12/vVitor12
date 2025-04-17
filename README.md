@@ -1,6 +1,6 @@
 Hello, world 😃
 
-Estudante de Análise e Desenvolvimento de Sistemas. 
+Estudante de Análise e Desenvolvimento de Sistemas na faculdade Anhanguera, atualmente com experiência na área de informática, porém, buscando novos horizontes e estudando tanto front quanto back-end.
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; font-family: Arial, sans-serif;">
   <h2>Status do GitHub de vVitor12</h2>
