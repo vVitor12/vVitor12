@@ -33,10 +33,7 @@ Formado em Análise e Desenvolvimento de Sistemas na faculdade Anhanguera, atual
 
 ##
 
-[![Relógio Digital](https://github-readme-stats.vercel.app/api/pin/?username=vVitor12&repo=Relogio-Digital)](https://github.com/vVitor12/Relogio-Digital)
-[![Formulário de Contato](https://github-readme-stats.vercel.app/api/pin/?username=vVitor12&repo=Formulario-)](https://github.com/vVitor12/Formulario-)
-[![Gerador de QR Code](https://github-readme-stats.vercel.app/api/pin/?username=vVitor12&repo=Gerador-QRcode)](https://github.com/vVitor12/Gerador-QRcode)
-[![Tela de Login](https://github-readme-stats.vercel.app/api/pin/?username=vVitor12&repo=Tela-de-Login)](https://github.com/vVitor12/Tela-de-Login)
+
 
 
 
